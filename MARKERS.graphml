@@ -1,0 +1,267 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns">
+    <key attr.name="SUID" attr.type="long" for="node" id="SUID"/>
+    <key attr.name="shared name" attr.type="string" for="node" id="shared name"/>
+    <key attr.name="name" attr.type="string" for="node" id="name"/>
+    <key attr.name="selected" attr.type="boolean" for="node" id="selected"/>
+    <key attr.name="SUID" attr.type="long" for="edge" id="SUID"/>
+    <key attr.name="shared name" attr.type="string" for="edge" id="shared name"/>
+    <key attr.name="shared interaction" attr.type="string" for="edge" id="shared interaction"/>
+    <key attr.name="name" attr.type="string" for="edge" id="name"/>
+    <key attr.name="selected" attr.type="boolean" for="edge" id="selected"/>
+    <key attr.name="interaction" attr.type="string" for="edge" id="interaction"/>
+    <key attr.name="feature" attr.type="string" for="edge" id="feature"/>
+    <key attr.name="SUID" attr.type="long" for="graph" id="SUID"/>
+    <key attr.name="shared name" attr.type="string" for="graph" id="shared name"/>
+    <key attr.name="name" attr.type="string" for="graph" id="name"/>
+    <key attr.name="selected" attr.type="boolean" for="graph" id="selected"/>
+    <key attr.name="__Annotations" attr.type="string" for="graph" id="__Annotations"/>
+    <graph edgedefault="directed" id="MARKER_list_inv.tsv">
+        <node id="227">
+            <data key="SUID">227</data>
+            <data key="shared name">Phylogenetics</data>
+            <data key="name">Phylogenetics</data>
+            <data key="selected">false</data>
+        </node>
+        <node id="226">
+            <data key="SUID">226</data>
+            <data key="shared name">Genetic diversity</data>
+            <data key="name">Genetic diversity</data>
+            <data key="selected">false</data>
+        </node>
+        <node id="225">
+            <data key="SUID">225</data>
+            <data key="shared name">Population structure</data>
+            <data key="name">Population structure</data>
+            <data key="selected">false</data>
+        </node>
+        <node id="224">
+            <data key="SUID">224</data>
+            <data key="shared name">Genetic identification</data>
+            <data key="name">Genetic identification</data>
+            <data key="selected">false</data>
+        </node>
+        <node id="223">
+            <data key="SUID">223</data>
+            <data key="shared name">Phylogeography</data>
+            <data key="name">Phylogeography</data>
+            <data key="selected">false</data>
+        </node>
+        <edge source="227" target="226">
+            <data key="SUID">251</data>
+            <data key="shared name">Phylogenetics (interacts with) Genetic_diversity</data>
+            <data key="shared interaction">interacts with</data>
+            <data key="name">Phylogenetics (interacts with) Genetic_diversity</data>
+            <data key="selected">false</data>
+            <data key="interaction">interacts with</data>
+            <data key="feature">mtDNA</data>
+        </edge>
+        <edge source="227" target="225">
+            <data key="SUID">250</data>
+            <data key="shared name">Phylogenetics (interacts with) Population_structure</data>
+            <data key="shared interaction">interacts with</data>
+            <data key="name">Phylogenetics (interacts with) Population_structure</data>
+            <data key="selected">false</data>
+            <data key="interaction">interacts with</data>
+            <data key="feature">mtDNA</data>
+        </edge>
+        <edge source="227" target="224">
+            <data key="SUID">249</data>
+            <data key="shared name">Phylogenetics (interacts with) Genetic_identification</data>
+            <data key="shared interaction">interacts with</data>
+            <data key="name">Phylogenetics (interacts with) Genetic_identification</data>
+            <data key="selected">false</data>
+            <data key="interaction">interacts with</data>
+            <data key="feature">mtDNA</data>
+        </edge>
+        <edge source="227" target="223">
+            <data key="SUID">248</data>
+            <data key="shared name">Phylogenetics (interacts with) Phylogeography</data>
+            <data key="shared interaction">interacts with</data>
+            <data key="name">Phylogenetics (interacts with) Phylogeography</data>
+            <data key="selected">false</data>
+            <data key="interaction">interacts with</data>
+            <data key="feature">mtDNA</data>
+        </edge>
+        <edge source="226" target="225">
+            <data key="SUID">247</data>
+            <data key="shared name">Genetic_diversity (interacts with) Population_structure</data>
+            <data key="shared interaction">interacts with</data>
+            <data key="name">Genetic_diversity (interacts with) Population_structure</data>
+            <data key="selected">false</data>
+            <data key="interaction">interacts with</data>
+            <data key="feature">mtDNA</data>
+        </edge>
+        <edge source="226" target="224">
+            <data key="SUID">246</data>
+            <data key="shared name">Genetic_diversity (interacts with) Genetic_identification</data>
+            <data key="shared interaction">interacts with</data>
+            <data key="name">Genetic_diversity (interacts with) Genetic_identification</data>
+            <data key="selected">false</data>
+            <data key="interaction">interacts with</data>
+            <data key="feature">mtDNA</data>
+        </edge>
+        <edge source="226" target="223">
+            <data key="SUID">245</data>
+            <data key="shared name">Genetic_diversity (interacts with) Phylogeography</data>
+            <data key="shared interaction">interacts with</data>
+            <data key="name">Genetic_diversity (interacts with) Phylogeography</data>
+            <data key="selected">false</data>
+            <data key="interaction">interacts with</data>
+            <data key="feature">mtDNA</data>
+        </edge>
+        <edge source="226" target="225">
+            <data key="SUID">244</data>
+            <data key="shared name">Genetic_diversity (interacts with) Population_structure</data>
+            <data key="shared interaction">interacts with</data>
+            <data key="name">Genetic_diversity (interacts with) Population_structure</data>
+            <data key="selected">false</data>
+            <data key="interaction">interacts with</data>
+            <data key="feature">SSR</data>
+        </edge>
+        <edge source="226" target="224">
+            <data key="SUID">243</data>
+            <data key="shared name">Genetic_diversity (interacts with) Genetic_identification</data>
+            <data key="shared interaction">interacts with</data>
+            <data key="name">Genetic_diversity (interacts with) Genetic_identification</data>
+            <data key="selected">false</data>
+            <data key="interaction">interacts with</data>
+            <data key="feature">SSR</data>
+        </edge>
+        <edge source="226" target="223">
+            <data key="SUID">242</data>
+            <data key="shared name">Genetic_diversity (interacts with) Phylogeography</data>
+            <data key="shared interaction">interacts with</data>
+            <data key="name">Genetic_diversity (interacts with) Phylogeography</data>
+            <data key="selected">false</data>
+            <data key="interaction">interacts with</data>
+            <data key="feature">SSR</data>
+        </edge>
+        <edge source="226" target="226">
+            <data key="SUID">241</data>
+            <data key="shared name">Genetic_diversity (interacts with) Genetic_diversity</data>
+            <data key="shared interaction">interacts with</data>
+            <data key="name">Genetic_diversity (interacts with) Genetic_diversity</data>
+            <data key="selected">false</data>
+            <data key="interaction">interacts with</data>
+            <data key="feature">SNP</data>
+        </edge>
+        <edge source="225" target="224">
+            <data key="SUID">240</data>
+            <data key="shared name">Population_structure (interacts with) Genetic_identification</data>
+            <data key="shared interaction">interacts with</data>
+            <data key="name">Population_structure (interacts with) Genetic_identification</data>
+            <data key="selected">false</data>
+            <data key="interaction">interacts with</data>
+            <data key="feature">mtDNA</data>
+        </edge>
+        <edge source="225" target="223">
+            <data key="SUID">239</data>
+            <data key="shared name">Population_structure (interacts with) Phylogeography</data>
+            <data key="shared interaction">interacts with</data>
+            <data key="name">Population_structure (interacts with) Phylogeography</data>
+            <data key="selected">false</data>
+            <data key="interaction">interacts with</data>
+            <data key="feature">mtDNA</data>
+        </edge>
+        <edge source="225" target="224">
+            <data key="SUID">238</data>
+            <data key="shared name">Population_structure (interacts with) Genetic_identification</data>
+            <data key="shared interaction">interacts with</data>
+            <data key="name">Population_structure (interacts with) Genetic_identification</data>
+            <data key="selected">false</data>
+            <data key="interaction">interacts with</data>
+            <data key="feature">SSR</data>
+        </edge>
+        <edge source="225" target="223">
+            <data key="SUID">237</data>
+            <data key="shared name">Population_structure (interacts with) Phylogeography</data>
+            <data key="shared interaction">interacts with</data>
+            <data key="name">Population_structure (interacts with) Phylogeography</data>
+            <data key="selected">false</data>
+            <data key="interaction">interacts with</data>
+            <data key="feature">SSR</data>
+        </edge>
+        <edge source="225" target="223">
+            <data key="SUID">236</data>
+            <data key="shared name">Population_structure (interacts with) Phylogeography</data>
+            <data key="shared interaction">interacts with</data>
+            <data key="name">Population_structure (interacts with) Phylogeography</data>
+            <data key="selected">false</data>
+            <data key="interaction">interacts with</data>
+            <data key="feature">Nuclear_markers</data>
+        </edge>
+        <edge source="225" target="227">
+            <data key="SUID">235</data>
+            <data key="shared name">Population_structure (interacts with) Phylogenetics</data>
+            <data key="shared interaction">interacts with</data>
+            <data key="name">Population_structure (interacts with) Phylogenetics</data>
+            <data key="selected">false</data>
+            <data key="interaction">interacts with</data>
+            <data key="feature">Nuclear_markers</data>
+        </edge>
+        <edge source="225" target="225">
+            <data key="SUID">234</data>
+            <data key="shared name">Population_structure (interacts with) Population_structure</data>
+            <data key="shared interaction">interacts with</data>
+            <data key="name">Population_structure (interacts with) Population_structure</data>
+            <data key="selected">false</data>
+            <data key="interaction">interacts with</data>
+            <data key="feature">Proteic_markers</data>
+        </edge>
+        <edge source="224" target="223">
+            <data key="SUID">233</data>
+            <data key="shared name">Genetic_identification (interacts with) Phylogeography</data>
+            <data key="shared interaction">interacts with</data>
+            <data key="name">Genetic_identification (interacts with) Phylogeography</data>
+            <data key="selected">false</data>
+            <data key="interaction">interacts with</data>
+            <data key="feature">mtDNA</data>
+        </edge>
+        <edge source="224" target="223">
+            <data key="SUID">232</data>
+            <data key="shared name">Genetic_identification (interacts with) Phylogeography</data>
+            <data key="shared interaction">interacts with</data>
+            <data key="name">Genetic_identification (interacts with) Phylogeography</data>
+            <data key="selected">false</data>
+            <data key="interaction">interacts with</data>
+            <data key="feature">SSR</data>
+        </edge>
+        <edge source="224" target="225">
+            <data key="SUID">231</data>
+            <data key="shared name">Genetic_identification (interacts with) Population_structure</data>
+            <data key="shared interaction">interacts with</data>
+            <data key="name">Genetic_identification (interacts with) Population_structure</data>
+            <data key="selected">false</data>
+            <data key="interaction">interacts with</data>
+            <data key="feature">Nuclear_markers</data>
+        </edge>
+        <edge source="224" target="223">
+            <data key="SUID">230</data>
+            <data key="shared name">Genetic_identification (interacts with) Phylogeography</data>
+            <data key="shared interaction">interacts with</data>
+            <data key="name">Genetic_identification (interacts with) Phylogeography</data>
+            <data key="selected">false</data>
+            <data key="interaction">interacts with</data>
+            <data key="feature">Nuclear_markers</data>
+        </edge>
+        <edge source="224" target="227">
+            <data key="SUID">229</data>
+            <data key="shared name">Genetic_identification (interacts with) Phylogenetics</data>
+            <data key="shared interaction">interacts with</data>
+            <data key="name">Genetic_identification (interacts with) Phylogenetics</data>
+            <data key="selected">false</data>
+            <data key="interaction">interacts with</data>
+            <data key="feature">Nuclear_markers</data>
+        </edge>
+        <edge source="223" target="227">
+            <data key="SUID">228</data>
+            <data key="shared name">Phylogeography (interacts with) Phylogenetics</data>
+            <data key="shared interaction">interacts with</data>
+            <data key="name">Phylogeography (interacts with) Phylogenetics</data>
+            <data key="selected">false</data>
+            <data key="interaction">interacts with</data>
+            <data key="feature">Nuclear_markers</data>
+        </edge>
+    </graph>
+</graphml>

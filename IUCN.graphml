@@ -1,0 +1,268 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns">
+    <key attr.name="SUID" attr.type="long" for="node" id="SUID"/>
+    <key attr.name="shared name" attr.type="string" for="node" id="shared name"/>
+    <key attr.name="name" attr.type="string" for="node" id="name"/>
+    <key attr.name="selected" attr.type="boolean" for="node" id="selected"/>
+    <key attr.name="degree.layout" attr.type="int" for="node" id="degree.layout"/>
+    <key attr.name="SUID" attr.type="long" for="edge" id="SUID"/>
+    <key attr.name="shared name" attr.type="string" for="edge" id="shared name"/>
+    <key attr.name="shared interaction" attr.type="string" for="edge" id="shared interaction"/>
+    <key attr.name="name" attr.type="string" for="edge" id="name"/>
+    <key attr.name="selected" attr.type="boolean" for="edge" id="selected"/>
+    <key attr.name="interaction" attr.type="string" for="edge" id="interaction"/>
+    <key attr.name="feature" attr.type="string" for="edge" id="feature"/>
+    <key attr.name="SUID" attr.type="long" for="graph" id="SUID"/>
+    <key attr.name="shared name" attr.type="string" for="graph" id="shared name"/>
+    <key attr.name="name" attr.type="string" for="graph" id="name"/>
+    <key attr.name="selected" attr.type="boolean" for="graph" id="selected"/>
+    <key attr.name="__Annotations" attr.type="string" for="graph" id="__Annotations"/>
+    <graph edgedefault="directed" id="IUCN_list.tsv">
+        <node id="162">
+            <data key="SUID">162</data>
+            <data key="shared name">LC</data>
+            <data key="name">LC</data>
+            <data key="selected">false</data>
+        </node>
+        <node id="161">
+            <data key="SUID">161</data>
+            <data key="shared name">VU</data>
+            <data key="name">VU</data>
+            <data key="selected">false</data>
+        </node>
+        <node id="160">
+            <data key="SUID">160</data>
+            <data key="shared name">EN</data>
+            <data key="name">EN</data>
+            <data key="selected">false</data>
+        </node>
+        <node id="159">
+            <data key="SUID">159</data>
+            <data key="shared name">NT</data>
+            <data key="name">NT</data>
+            <data key="selected">false</data>
+        </node>
+        <node id="158">
+            <data key="SUID">158</data>
+            <data key="shared name">CR</data>
+            <data key="name">CR</data>
+            <data key="selected">true</data>
+        </node>
+        <edge source="162" target="161">
+            <data key="SUID">186</data>
+            <data key="shared name">LC (interacts with) VU</data>
+            <data key="shared interaction">interacts with</data>
+            <data key="name">LC (interacts with) VU</data>
+            <data key="selected">false</data>
+            <data key="interaction">interacts with</data>
+            <data key="feature">Phylogenetics</data>
+        </edge>
+        <edge source="162" target="160">
+            <data key="SUID">185</data>
+            <data key="shared name">LC (interacts with) EN</data>
+            <data key="shared interaction">interacts with</data>
+            <data key="name">LC (interacts with) EN</data>
+            <data key="selected">false</data>
+            <data key="interaction">interacts with</data>
+            <data key="feature">Phylogenetics</data>
+        </edge>
+        <edge source="162" target="159">
+            <data key="SUID">184</data>
+            <data key="shared name">LC (interacts with) NT</data>
+            <data key="shared interaction">interacts with</data>
+            <data key="name">LC (interacts with) NT</data>
+            <data key="selected">false</data>
+            <data key="interaction">interacts with</data>
+            <data key="feature">Genetic_diversity</data>
+        </edge>
+        <edge source="162" target="161">
+            <data key="SUID">183</data>
+            <data key="shared name">LC (interacts with) VU</data>
+            <data key="shared interaction">interacts with</data>
+            <data key="name">LC (interacts with) VU</data>
+            <data key="selected">false</data>
+            <data key="interaction">interacts with</data>
+            <data key="feature">Genetic_diversity</data>
+        </edge>
+        <edge source="162" target="160">
+            <data key="SUID">182</data>
+            <data key="shared name">LC (interacts with) EN</data>
+            <data key="shared interaction">interacts with</data>
+            <data key="name">LC (interacts with) EN</data>
+            <data key="selected">false</data>
+            <data key="interaction">interacts with</data>
+            <data key="feature">Genetic_diversity</data>
+        </edge>
+        <edge source="162" target="159">
+            <data key="SUID">181</data>
+            <data key="shared name">LC (interacts with) NT</data>
+            <data key="shared interaction">interacts with</data>
+            <data key="name">LC (interacts with) NT</data>
+            <data key="selected">false</data>
+            <data key="interaction">interacts with</data>
+            <data key="feature">Population_structure</data>
+        </edge>
+        <edge source="162" target="160">
+            <data key="SUID">180</data>
+            <data key="shared name">LC (interacts with) EN</data>
+            <data key="shared interaction">interacts with</data>
+            <data key="name">LC (interacts with) EN</data>
+            <data key="selected">false</data>
+            <data key="interaction">interacts with</data>
+            <data key="feature">Population_structure</data>
+        </edge>
+        <edge source="162" target="158">
+            <data key="SUID">179</data>
+            <data key="shared name">LC (interacts with) CR</data>
+            <data key="shared interaction">interacts with</data>
+            <data key="name">LC (interacts with) CR</data>
+            <data key="selected">false</data>
+            <data key="interaction">interacts with</data>
+            <data key="feature">Population_structure</data>
+        </edge>
+        <edge source="162" target="159">
+            <data key="SUID">178</data>
+            <data key="shared name">LC (interacts with) NT</data>
+            <data key="shared interaction">interacts with</data>
+            <data key="name">LC (interacts with) NT</data>
+            <data key="selected">false</data>
+            <data key="interaction">interacts with</data>
+            <data key="feature">Genetic_identification</data>
+        </edge>
+        <edge source="162" target="161">
+            <data key="SUID">177</data>
+            <data key="shared name">LC (interacts with) VU</data>
+            <data key="shared interaction">interacts with</data>
+            <data key="name">LC (interacts with) VU</data>
+            <data key="selected">false</data>
+            <data key="interaction">interacts with</data>
+            <data key="feature">Genetic_identification</data>
+        </edge>
+        <edge source="162" target="160">
+            <data key="SUID">176</data>
+            <data key="shared name">LC (interacts with) EN</data>
+            <data key="shared interaction">interacts with</data>
+            <data key="name">LC (interacts with) EN</data>
+            <data key="selected">false</data>
+            <data key="interaction">interacts with</data>
+            <data key="feature">Phylogeography</data>
+        </edge>
+        <edge source="162" target="161">
+            <data key="SUID">175</data>
+            <data key="shared name">LC (interacts with) VU</data>
+            <data key="shared interaction">interacts with</data>
+            <data key="name">LC (interacts with) VU</data>
+            <data key="selected">false</data>
+            <data key="interaction">interacts with</data>
+            <data key="feature">Phylogeography</data>
+        </edge>
+        <edge source="161" target="160">
+            <data key="SUID">174</data>
+            <data key="shared name">VU (interacts with) EN</data>
+            <data key="shared interaction">interacts with</data>
+            <data key="name">VU (interacts with) EN</data>
+            <data key="selected">false</data>
+            <data key="interaction">interacts with</data>
+            <data key="feature">Phylogenetics</data>
+        </edge>
+        <edge source="161" target="160">
+            <data key="SUID">173</data>
+            <data key="shared name">VU (interacts with) EN</data>
+            <data key="shared interaction">interacts with</data>
+            <data key="name">VU (interacts with) EN</data>
+            <data key="selected">false</data>
+            <data key="interaction">interacts with</data>
+            <data key="feature">Genetic_diversity</data>
+        </edge>
+        <edge source="160" target="158">
+            <data key="SUID">172</data>
+            <data key="shared name">EN (interacts with) CR</data>
+            <data key="shared interaction">interacts with</data>
+            <data key="name">EN (interacts with) CR</data>
+            <data key="selected">false</data>
+            <data key="interaction">interacts with</data>
+            <data key="feature">Population_structure</data>
+        </edge>
+        <edge source="160" target="161">
+            <data key="SUID">171</data>
+            <data key="shared name">EN (interacts with) VU</data>
+            <data key="shared interaction">interacts with</data>
+            <data key="name">EN (interacts with) VU</data>
+            <data key="selected">false</data>
+            <data key="interaction">interacts with</data>
+            <data key="feature">Phylogeography</data>
+        </edge>
+        <edge source="159" target="161">
+            <data key="SUID">170</data>
+            <data key="shared name">NT (interacts with) VU</data>
+            <data key="shared interaction">interacts with</data>
+            <data key="name">NT (interacts with) VU</data>
+            <data key="selected">false</data>
+            <data key="interaction">interacts with</data>
+            <data key="feature">Genetic_diversity</data>
+        </edge>
+        <edge source="159" target="160">
+            <data key="SUID">169</data>
+            <data key="shared name">NT (interacts with) EN</data>
+            <data key="shared interaction">interacts with</data>
+            <data key="name">NT (interacts with) EN</data>
+            <data key="selected">false</data>
+            <data key="interaction">interacts with</data>
+            <data key="feature">Genetic_diversity</data>
+        </edge>
+        <edge source="159" target="160">
+            <data key="SUID">168</data>
+            <data key="shared name">NT (interacts with) EN</data>
+            <data key="shared interaction">interacts with</data>
+            <data key="name">NT (interacts with) EN</data>
+            <data key="selected">false</data>
+            <data key="interaction">interacts with</data>
+            <data key="feature">Population_structure</data>
+        </edge>
+        <edge source="159" target="158">
+            <data key="SUID">167</data>
+            <data key="shared name">NT (interacts with) CR</data>
+            <data key="shared interaction">interacts with</data>
+            <data key="name">NT (interacts with) CR</data>
+            <data key="selected">false</data>
+            <data key="interaction">interacts with</data>
+            <data key="feature">Population_structure</data>
+        </edge>
+        <edge source="159" target="161">
+            <data key="SUID">166</data>
+            <data key="shared name">NT (interacts with) VU</data>
+            <data key="shared interaction">interacts with</data>
+            <data key="name">NT (interacts with) VU</data>
+            <data key="selected">false</data>
+            <data key="interaction">interacts with</data>
+            <data key="feature">Genetic_identification</data>
+        </edge>
+        <edge source="159" target="162">
+            <data key="SUID">165</data>
+            <data key="shared name">NT (interacts with) LC</data>
+            <data key="shared interaction">interacts with</data>
+            <data key="name">NT (interacts with) LC</data>
+            <data key="selected">false</data>
+            <data key="interaction">interacts with</data>
+            <data key="feature">Phylogeography</data>
+        </edge>
+        <edge source="159" target="160">
+            <data key="SUID">164</data>
+            <data key="shared name">NT (interacts with) EN</data>
+            <data key="shared interaction">interacts with</data>
+            <data key="name">NT (interacts with) EN</data>
+            <data key="selected">false</data>
+            <data key="interaction">interacts with</data>
+            <data key="feature">Phylogeography</data>
+        </edge>
+        <edge source="159" target="161">
+            <data key="SUID">163</data>
+            <data key="shared name">NT (interacts with) VU</data>
+            <data key="shared interaction">interacts with</data>
+            <data key="name">NT (interacts with) VU</data>
+            <data key="selected">false</data>
+            <data key="interaction">interacts with</data>
+            <data key="feature">Phylogeography</data>
+        </edge>
+    </graph>
+</graphml>

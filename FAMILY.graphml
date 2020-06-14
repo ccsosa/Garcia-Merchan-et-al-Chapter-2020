@@ -1,0 +1,424 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns">
+    <key attr.name="SUID" attr.type="long" for="node" id="SUID"/>
+    <key attr.name="shared name" attr.type="string" for="node" id="shared name"/>
+    <key attr.name="name" attr.type="string" for="node" id="name"/>
+    <key attr.name="selected" attr.type="boolean" for="node" id="selected"/>
+    <key attr.name="degree.layout" attr.type="int" for="node" id="degree.layout"/>
+    <key attr.name="SUID" attr.type="long" for="edge" id="SUID"/>
+    <key attr.name="shared name" attr.type="string" for="edge" id="shared name"/>
+    <key attr.name="shared interaction" attr.type="string" for="edge" id="shared interaction"/>
+    <key attr.name="name" attr.type="string" for="edge" id="name"/>
+    <key attr.name="selected" attr.type="boolean" for="edge" id="selected"/>
+    <key attr.name="interaction" attr.type="string" for="edge" id="interaction"/>
+    <key attr.name="feature" attr.type="string" for="edge" id="feature"/>
+    <key attr.name="SUID" attr.type="long" for="graph" id="SUID"/>
+    <key attr.name="shared name" attr.type="string" for="graph" id="shared name"/>
+    <key attr.name="name" attr.type="string" for="graph" id="name"/>
+    <key attr.name="selected" attr.type="boolean" for="graph" id="selected"/>
+    <key attr.name="__Annotations" attr.type="string" for="graph" id="__Annotations"/>
+    <graph edgedefault="directed" id="FAMILY_list.tsv">
+        <node id="107">
+            <data key="SUID">107</data>
+            <data key="shared name">Ursidae</data>
+            <data key="name">Ursidae</data>
+            <data key="selected">false</data>
+            <data key="degree.layout">14</data>
+        </node>
+        <node id="106">
+            <data key="SUID">106</data>
+            <data key="shared name">Otariidae</data>
+            <data key="name">Otariidae</data>
+            <data key="selected">false</data>
+            <data key="degree.layout">12</data>
+        </node>
+        <node id="105">
+            <data key="SUID">105</data>
+            <data key="shared name">Canidae</data>
+            <data key="name">Canidae</data>
+            <data key="selected">false</data>
+            <data key="degree.layout">17</data>
+        </node>
+        <node id="104">
+            <data key="SUID">104</data>
+            <data key="shared name">Felidae</data>
+            <data key="name">Felidae</data>
+            <data key="selected">false</data>
+            <data key="degree.layout">17</data>
+        </node>
+        <node id="103">
+            <data key="SUID">103</data>
+            <data key="shared name">Mustelidae</data>
+            <data key="name">Mustelidae</data>
+            <data key="selected">false</data>
+            <data key="degree.layout">12</data>
+        </node>
+        <node id="102">
+            <data key="SUID">102</data>
+            <data key="shared name">Procyonidae</data>
+            <data key="name">Procyonidae</data>
+            <data key="selected">false</data>
+            <data key="degree.layout">8</data>
+        </node>
+        <edge source="107" target="106">
+            <data key="SUID">147</data>
+            <data key="shared name">URSIDAE (interacts with) OTARIIDAE</data>
+            <data key="shared interaction">interacts with</data>
+            <data key="name">URSIDAE (interacts with) OTARIIDAE</data>
+            <data key="selected">false</data>
+            <data key="interaction">interacts with</data>
+            <data key="feature">Phylogenetics</data>
+        </edge>
+        <edge source="107" target="105">
+            <data key="SUID">146</data>
+            <data key="shared name">URSIDAE (interacts with) CANIDAE</data>
+            <data key="shared interaction">interacts with</data>
+            <data key="name">URSIDAE (interacts with) CANIDAE</data>
+            <data key="selected">false</data>
+            <data key="interaction">interacts with</data>
+            <data key="feature">Phylogenetics</data>
+        </edge>
+        <edge source="107" target="104">
+            <data key="SUID">145</data>
+            <data key="shared name">URSIDAE (interacts with) FELIDAE</data>
+            <data key="shared interaction">interacts with</data>
+            <data key="name">URSIDAE (interacts with) FELIDAE</data>
+            <data key="selected">false</data>
+            <data key="interaction">interacts with</data>
+            <data key="feature">Phylogenetics</data>
+        </edge>
+        <edge source="107" target="104">
+            <data key="SUID">144</data>
+            <data key="shared name">URSIDAE (interacts with) FELIDAE</data>
+            <data key="shared interaction">interacts with</data>
+            <data key="name">URSIDAE (interacts with) FELIDAE</data>
+            <data key="selected">false</data>
+            <data key="interaction">interacts with</data>
+            <data key="feature">Genetic_diversity</data>
+        </edge>
+        <edge source="107" target="105">
+            <data key="SUID">143</data>
+            <data key="shared name">URSIDAE (interacts with) CANIDAE</data>
+            <data key="shared interaction">interacts with</data>
+            <data key="name">URSIDAE (interacts with) CANIDAE</data>
+            <data key="selected">false</data>
+            <data key="interaction">interacts with</data>
+            <data key="feature">Genetic_diversity</data>
+        </edge>
+        <edge source="107" target="105">
+            <data key="SUID">142</data>
+            <data key="shared name">URSIDAE (interacts with) CANIDAE</data>
+            <data key="shared interaction">interacts with</data>
+            <data key="name">URSIDAE (interacts with) CANIDAE</data>
+            <data key="selected">false</data>
+            <data key="interaction">interacts with</data>
+            <data key="feature">Population_structure</data>
+        </edge>
+        <edge source="107" target="102">
+            <data key="SUID">141</data>
+            <data key="shared name">URSIDAE (interacts with) PROCYONIDAE</data>
+            <data key="shared interaction">interacts with</data>
+            <data key="name">URSIDAE (interacts with) PROCYONIDAE</data>
+            <data key="selected">false</data>
+            <data key="interaction">interacts with</data>
+            <data key="feature">Population_structure</data>
+        </edge>
+        <edge source="106" target="105">
+            <data key="SUID">140</data>
+            <data key="shared name">OTARIIDAE (interacts with) CANIDAE</data>
+            <data key="shared interaction">interacts with</data>
+            <data key="name">OTARIIDAE (interacts with) CANIDAE</data>
+            <data key="selected">false</data>
+            <data key="interaction">interacts with</data>
+            <data key="feature">Phylogenetics</data>
+        </edge>
+        <edge source="106" target="104">
+            <data key="SUID">139</data>
+            <data key="shared name">OTARIIDAE (interacts with) FELIDAE</data>
+            <data key="shared interaction">interacts with</data>
+            <data key="name">OTARIIDAE (interacts with) FELIDAE</data>
+            <data key="selected">false</data>
+            <data key="interaction">interacts with</data>
+            <data key="feature">Phylogenetics</data>
+        </edge>
+        <edge source="106" target="103">
+            <data key="SUID">138</data>
+            <data key="shared name">OTARIIDAE (interacts with) MUSTELIDAE</data>
+            <data key="shared interaction">interacts with</data>
+            <data key="name">OTARIIDAE (interacts with) MUSTELIDAE</data>
+            <data key="selected">false</data>
+            <data key="interaction">interacts with</data>
+            <data key="feature">Genetic_diversity</data>
+        </edge>
+        <edge source="106" target="107">
+            <data key="SUID">137</data>
+            <data key="shared name">OTARIIDAE (interacts with) URSIDAE</data>
+            <data key="shared interaction">interacts with</data>
+            <data key="name">OTARIIDAE (interacts with) URSIDAE</data>
+            <data key="selected">false</data>
+            <data key="interaction">interacts with</data>
+            <data key="feature">Genetic_diversity</data>
+        </edge>
+        <edge source="106" target="104">
+            <data key="SUID">136</data>
+            <data key="shared name">OTARIIDAE (interacts with) FELIDAE</data>
+            <data key="shared interaction">interacts with</data>
+            <data key="name">OTARIIDAE (interacts with) FELIDAE</data>
+            <data key="selected">false</data>
+            <data key="interaction">interacts with</data>
+            <data key="feature">Genetic_diversity</data>
+        </edge>
+        <edge source="106" target="105">
+            <data key="SUID">135</data>
+            <data key="shared name">OTARIIDAE (interacts with) CANIDAE</data>
+            <data key="shared interaction">interacts with</data>
+            <data key="name">OTARIIDAE (interacts with) CANIDAE</data>
+            <data key="selected">false</data>
+            <data key="interaction">interacts with</data>
+            <data key="feature">Genetic_diversity</data>
+        </edge>
+        <edge source="106" target="104">
+            <data key="SUID">134</data>
+            <data key="shared name">OTARIIDAE (interacts with) FELIDAE</data>
+            <data key="shared interaction">interacts with</data>
+            <data key="name">OTARIIDAE (interacts with) FELIDAE</data>
+            <data key="selected">false</data>
+            <data key="interaction">interacts with</data>
+            <data key="feature">Population_structure</data>
+        </edge>
+        <edge source="106" target="103">
+            <data key="SUID">133</data>
+            <data key="shared name">OTARIIDAE (interacts with) MUSTELIDAE</data>
+            <data key="shared interaction">interacts with</data>
+            <data key="name">OTARIIDAE (interacts with) MUSTELIDAE</data>
+            <data key="selected">false</data>
+            <data key="interaction">interacts with</data>
+            <data key="feature">Population_structure</data>
+        </edge>
+        <edge source="106" target="107">
+            <data key="SUID">132</data>
+            <data key="shared name">OTARIIDAE (interacts with) URSIDAE</data>
+            <data key="shared interaction">interacts with</data>
+            <data key="name">OTARIIDAE (interacts with) URSIDAE</data>
+            <data key="selected">false</data>
+            <data key="interaction">interacts with</data>
+            <data key="feature">Population_structure</data>
+        </edge>
+        <edge source="106" target="105">
+            <data key="SUID">131</data>
+            <data key="shared name">OTARIIDAE (interacts with) CANIDAE</data>
+            <data key="shared interaction">interacts with</data>
+            <data key="name">OTARIIDAE (interacts with) CANIDAE</data>
+            <data key="selected">false</data>
+            <data key="interaction">interacts with</data>
+            <data key="feature">Population_structure</data>
+        </edge>
+        <edge source="106" target="102">
+            <data key="SUID">130</data>
+            <data key="shared name">OTARIIDAE (interacts with) PROCYONIDAE</data>
+            <data key="shared interaction">interacts with</data>
+            <data key="name">OTARIIDAE (interacts with) PROCYONIDAE</data>
+            <data key="selected">false</data>
+            <data key="interaction">interacts with</data>
+            <data key="feature">Population_structure</data>
+        </edge>
+        <edge source="105" target="104">
+            <data key="SUID">129</data>
+            <data key="shared name">CANIDAE (interacts with) FELIDAE</data>
+            <data key="shared interaction">interacts with</data>
+            <data key="name">CANIDAE (interacts with) FELIDAE</data>
+            <data key="selected">false</data>
+            <data key="interaction">interacts with</data>
+            <data key="feature">Phylogenetics</data>
+        </edge>
+        <edge source="105" target="102">
+            <data key="SUID">128</data>
+            <data key="shared name">CANIDAE (interacts with) PROCYONIDAE</data>
+            <data key="shared interaction">interacts with</data>
+            <data key="name">CANIDAE (interacts with) PROCYONIDAE</data>
+            <data key="selected">false</data>
+            <data key="interaction">interacts with</data>
+            <data key="feature">Population_structure</data>
+        </edge>
+        <edge source="105" target="107">
+            <data key="SUID">127</data>
+            <data key="shared name">CANIDAE (interacts with) URSIDAE</data>
+            <data key="shared interaction">interacts with</data>
+            <data key="name">CANIDAE (interacts with) URSIDAE</data>
+            <data key="selected">false</data>
+            <data key="interaction">interacts with</data>
+            <data key="feature">Genetic_identification</data>
+        </edge>
+        <edge source="105" target="103">
+            <data key="SUID">126</data>
+            <data key="shared name">CANIDAE (interacts with) MUSTELIDAE</data>
+            <data key="shared interaction">interacts with</data>
+            <data key="name">CANIDAE (interacts with) MUSTELIDAE</data>
+            <data key="selected">false</data>
+            <data key="interaction">interacts with</data>
+            <data key="feature">Phylogeography</data>
+        </edge>
+        <edge source="105" target="104">
+            <data key="SUID">125</data>
+            <data key="shared name">CANIDAE (interacts with) FELIDAE</data>
+            <data key="shared interaction">interacts with</data>
+            <data key="name">CANIDAE (interacts with) FELIDAE</data>
+            <data key="selected">false</data>
+            <data key="interaction">interacts with</data>
+            <data key="feature">Phylogeography</data>
+        </edge>
+        <edge source="105" target="102">
+            <data key="SUID">124</data>
+            <data key="shared name">CANIDAE (interacts with) PROCYONIDAE</data>
+            <data key="shared interaction">interacts with</data>
+            <data key="name">CANIDAE (interacts with) PROCYONIDAE</data>
+            <data key="selected">false</data>
+            <data key="interaction">interacts with</data>
+            <data key="feature">Phylogeography</data>
+        </edge>
+        <edge source="104" target="105">
+            <data key="SUID">123</data>
+            <data key="shared name">FELIDAE (interacts with) CANIDAE</data>
+            <data key="shared interaction">interacts with</data>
+            <data key="name">FELIDAE (interacts with) CANIDAE</data>
+            <data key="selected">false</data>
+            <data key="interaction">interacts with</data>
+            <data key="feature">Genetic_diversity</data>
+        </edge>
+        <edge source="104" target="103">
+            <data key="SUID">122</data>
+            <data key="shared name">FELIDAE (interacts with) MUSTELIDAE</data>
+            <data key="shared interaction">interacts with</data>
+            <data key="name">FELIDAE (interacts with) MUSTELIDAE</data>
+            <data key="selected">false</data>
+            <data key="interaction">interacts with</data>
+            <data key="feature">Population_structure</data>
+        </edge>
+        <edge source="104" target="107">
+            <data key="SUID">121</data>
+            <data key="shared name">FELIDAE (interacts with) URSIDAE</data>
+            <data key="shared interaction">interacts with</data>
+            <data key="name">FELIDAE (interacts with) URSIDAE</data>
+            <data key="selected">false</data>
+            <data key="interaction">interacts with</data>
+            <data key="feature">Population_structure</data>
+        </edge>
+        <edge source="104" target="105">
+            <data key="SUID">120</data>
+            <data key="shared name">FELIDAE (interacts with) CANIDAE</data>
+            <data key="shared interaction">interacts with</data>
+            <data key="name">FELIDAE (interacts with) CANIDAE</data>
+            <data key="selected">false</data>
+            <data key="interaction">interacts with</data>
+            <data key="feature">Population_structure</data>
+        </edge>
+        <edge source="104" target="102">
+            <data key="SUID">119</data>
+            <data key="shared name">FELIDAE (interacts with) PROCYONIDAE</data>
+            <data key="shared interaction">interacts with</data>
+            <data key="name">FELIDAE (interacts with) PROCYONIDAE</data>
+            <data key="selected">false</data>
+            <data key="interaction">interacts with</data>
+            <data key="feature">Population_structure</data>
+        </edge>
+        <edge source="104" target="105">
+            <data key="SUID">118</data>
+            <data key="shared name">FELIDAE (interacts with) CANIDAE</data>
+            <data key="shared interaction">interacts with</data>
+            <data key="name">FELIDAE (interacts with) CANIDAE</data>
+            <data key="selected">false</data>
+            <data key="interaction">interacts with</data>
+            <data key="feature">Genetic_identification</data>
+        </edge>
+        <edge source="104" target="107">
+            <data key="SUID">117</data>
+            <data key="shared name">FELIDAE (interacts with) URSIDAE</data>
+            <data key="shared interaction">interacts with</data>
+            <data key="name">FELIDAE (interacts with) URSIDAE</data>
+            <data key="selected">false</data>
+            <data key="interaction">interacts with</data>
+            <data key="feature">Genetic_identification</data>
+        </edge>
+        <edge source="104" target="102">
+            <data key="SUID">116</data>
+            <data key="shared name">FELIDAE (interacts with) PROCYONIDAE</data>
+            <data key="shared interaction">interacts with</data>
+            <data key="name">FELIDAE (interacts with) PROCYONIDAE</data>
+            <data key="selected">false</data>
+            <data key="interaction">interacts with</data>
+            <data key="feature">Phylogeography</data>
+        </edge>
+        <edge source="103" target="107">
+            <data key="SUID">115</data>
+            <data key="shared name">MUSTELIDAE (interacts with) URSIDAE</data>
+            <data key="shared interaction">interacts with</data>
+            <data key="name">MUSTELIDAE (interacts with) URSIDAE</data>
+            <data key="selected">false</data>
+            <data key="interaction">interacts with</data>
+            <data key="feature">Genetic_diversity</data>
+        </edge>
+        <edge source="103" target="104">
+            <data key="SUID">114</data>
+            <data key="shared name">MUSTELIDAE (interacts with) FELIDAE</data>
+            <data key="shared interaction">interacts with</data>
+            <data key="name">MUSTELIDAE (interacts with) FELIDAE</data>
+            <data key="selected">false</data>
+            <data key="interaction">interacts with</data>
+            <data key="feature">Genetic_diversity</data>
+        </edge>
+        <edge source="103" target="105">
+            <data key="SUID">113</data>
+            <data key="shared name">MUSTELIDAE (interacts with) CANIDAE</data>
+            <data key="shared interaction">interacts with</data>
+            <data key="name">MUSTELIDAE (interacts with) CANIDAE</data>
+            <data key="selected">false</data>
+            <data key="interaction">interacts with</data>
+            <data key="feature">Genetic_diversity</data>
+        </edge>
+        <edge source="103" target="107">
+            <data key="SUID">112</data>
+            <data key="shared name">MUSTELIDAE (interacts with) URSIDAE</data>
+            <data key="shared interaction">interacts with</data>
+            <data key="name">MUSTELIDAE (interacts with) URSIDAE</data>
+            <data key="selected">false</data>
+            <data key="interaction">interacts with</data>
+            <data key="feature">Population_structure</data>
+        </edge>
+        <edge source="103" target="105">
+            <data key="SUID">111</data>
+            <data key="shared name">MUSTELIDAE (interacts with) CANIDAE</data>
+            <data key="shared interaction">interacts with</data>
+            <data key="name">MUSTELIDAE (interacts with) CANIDAE</data>
+            <data key="selected">false</data>
+            <data key="interaction">interacts with</data>
+            <data key="feature">Population_structure</data>
+        </edge>
+        <edge source="103" target="102">
+            <data key="SUID">110</data>
+            <data key="shared name">MUSTELIDAE (interacts with) PROCYONIDAE</data>
+            <data key="shared interaction">interacts with</data>
+            <data key="name">MUSTELIDAE (interacts with) PROCYONIDAE</data>
+            <data key="selected">false</data>
+            <data key="interaction">interacts with</data>
+            <data key="feature">Population_structure</data>
+        </edge>
+        <edge source="103" target="104">
+            <data key="SUID">109</data>
+            <data key="shared name">MUSTELIDAE (interacts with) FELIDAE</data>
+            <data key="shared interaction">interacts with</data>
+            <data key="name">MUSTELIDAE (interacts with) FELIDAE</data>
+            <data key="selected">false</data>
+            <data key="interaction">interacts with</data>
+            <data key="feature">Phylogeography</data>
+        </edge>
+        <edge source="103" target="102">
+            <data key="SUID">108</data>
+            <data key="shared name">MUSTELIDAE (interacts with) PROCYONIDAE</data>
+            <data key="shared interaction">interacts with</data>
+            <data key="name">MUSTELIDAE (interacts with) PROCYONIDAE</data>
+            <data key="selected">false</data>
+            <data key="interaction">interacts with</data>
+            <data key="feature">Phylogeography</data>
+        </edge>
+    </graph>
+</graphml>
