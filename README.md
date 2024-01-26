@@ -12,6 +12,10 @@ This repository is a supplementary information repository fromn García-Merchán
 - Datos to_graph_format.R: R code to obtain a edge list table in tsv format to upload in Cytoscape.
 - Datos Maps.R: R code to map the localities geographical coordinates.
 
+## Authors
+Main:Sosa-Arango, C.C.
 
-To use this code, please cite: 
+Other contributors:  García-Merchán, V.H., Calle, C.A., Castaño-Castro, P., Chacón-Vargas, K. 
+
+## References
 García-Merchán, V.H., Calle, C.A., Sosa-Arango, C.C., Castaño-Castro, P., Chacón-Vargas, K. (2021). Conservation Genetics in the Neotropical Carnivorous Mammals: A Systematic Review. In: Nardelli, M., Túnez, J.I. (eds) Molecular Ecology and Conservation Genetics of Neotropical Mammals. Springer, Cham. https://doi.org/10.1007/978-3-030-65606-5_12
