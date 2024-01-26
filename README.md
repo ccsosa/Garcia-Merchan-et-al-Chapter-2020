@@ -13,3 +13,7 @@ This repository is a supplementary information repository fromn García-Merchán
 - Datos Maps.R: R code to map the localities geographical coordinates.
 
 
+To use this code, please cite: 
+García-Merchán, V.H., Calle, C.A., Sosa-Arango, C.C., Castaño-Castro, P., Chacón-Vargas, K. (2021). Conservation Genetics in the Neotropical Carnivorous Mammals: A Systematic Review. In: Nardelli, M., Túnez, J.I. (eds) Molecular Ecology and Conservation Genetics of Neotropical Mammals. Springer, Cham. https://doi.org/10.1007/978-3-030-65606-5_12
+
+https://link.springer.com/chapter/10.1007/978-3-030-65606-5_12
